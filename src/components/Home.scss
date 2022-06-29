@@ -1,0 +1,7 @@
+@import "../styles/colors";
+
+.Home{
+    &_title{
+        color: $color-primary;
+    }
+}
